@@ -23,6 +23,7 @@ WORKDIR /root/
 
 # Copy the binary from builder
 COPY --from=builder /app/main .
+COPY data.json .
 
 # Expose port 4000
 EXPOSE 4000
