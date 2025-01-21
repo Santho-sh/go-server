@@ -82,7 +82,7 @@ func main() {
 	json.Unmarshal(byteValue, &listings)
 
 	// Define a simple route
-	app.Get("/", func(c *fiber.Ctx) error {
+	app.Get("/api/go", func(c *fiber.Ctx) error {
 		return c.JSON(fiber.Map{
 			"message": "Hello, World! Go app is running!",
 			"data":    listings,
