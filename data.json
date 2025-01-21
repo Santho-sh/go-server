@@ -1,0 +1,1506 @@
+[
+  {
+    "id": "L001",
+    "title": "Premium Plot in Prime Location",
+    "description": "Spacious plot in a developing area with excellent connectivity. Ideal for investment or construction.",
+    "type": "plot",
+    "location": {
+      "longitude": 76.90064,
+      "latitude": 11.013698
+    },
+    "readyToMove": true,
+    "gatedCommunity": true,
+    "locationFeatures": [
+      "Near International School",
+      "10 mins to Railway Station",
+      "Adjacent to Main Road"
+    ],
+    "amenities": ["24/7 Security", "Street Lights", "Underground Drainage"],
+    "price": 9000000,
+    "phone": "+91-9876543210",
+    "address": {
+      "street": "Gandhi Road",
+      "area": "RS Puram",
+      "pincode": "641002",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 2400,
+    "floors": 0,
+    "dtcpApproved": true,
+    "facing": "east",
+    "parking": {
+      "available": false
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "tags": ["corner-plot", "residential", "dtcp-approved"],
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 34,
+    "contacted": 12,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L002",
+    "title": "Modern 3BHK Apartment",
+    "description": "Luxurious apartment with modern amenities in the heart of the city center. Ideal for urban living.",
+    "type": "apartment",
+    "location": {
+      "longitude": 76.928379,
+      "latitude": 11.030729
+    },
+    "readyToMove": true,
+    "gatedCommunity": true,
+    "locationFeatures": [
+      "Near City Mall",
+      "5 mins to Hospital",
+      "Close to Metro Station"
+    ],
+    "amenities": ["Swimming Pool", "Gym", "Children's Play Area", "Club House"],
+    "price": 12000000,
+    "phone": "+91-9876543211",
+    "address": {
+      "street": "Race Course Road",
+      "area": "Race Course",
+      "pincode": "641018",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 1800,
+    "floors": 12,
+    "dtcpApproved": true,
+    "squareFeet": 1500,
+    "bhk": 3,
+    "facing": "north",
+    "propertyAge": 2,
+    "parking": {
+      "available": true,
+      "type": "covered",
+      "spaces": 2
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "video": "https://www.youtube.com/watch?v=bA10OW0hOEg",
+    "tags": ["luxury", "gated-community", "modern"],
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 45,
+    "contacted": 20,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L003",
+    "title": "Luxury Villa with Garden",
+    "description": "Spacious villa with modern architecture and beautiful landscaping, overlooking the golf course.",
+    "type": "villa",
+    "location": {
+      "longitude": 76.897907,
+      "latitude": 10.968794
+    },
+    "readyToMove": true,
+    "gatedCommunity": true,
+    "locationFeatures": [
+      "Golf Course View",
+      "Near International Airport",
+      "Peaceful Location"
+    ],
+    "amenities": [
+      "Private Garden",
+      "Swimming Pool",
+      "Home Theater",
+      "Servant Quarters"
+    ],
+    "price": 15000000,
+    "phone": "+91-9876543212",
+    "address": {
+      "street": "Villa Street",
+      "area": "Kovaipudur",
+      "pincode": "641042",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 4000,
+    "floors": 2,
+    "dtcpApproved": true,
+    "squareFeet": 3200,
+    "bhk": 4,
+    "facing": "east",
+    "propertyAge": 1,
+    "parking": {
+      "available": true,
+      "type": "covered",
+      "spaces": 3
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "video": "https://www.youtube.com/watch?v=bA10OW0hOEg",
+    "tags": ["premium", "golf-view", "luxury"],
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 56,
+    "contacted": 18,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L004",
+    "title": "Independent House with Garden",
+    "description": "Well-maintained independent house with spacious rooms. Ideal for families.",
+    "type": "house",
+    "location": {
+      "longitude": 77.079311,
+      "latitude": 10.91561
+    },
+    "readyToMove": true,
+    "gatedCommunity": false,
+    "locationFeatures": ["Near School", "Market Nearby", "Bus Stop"],
+    "amenities": ["Garden", "Solar Power", "Rain Water Harvesting"],
+    "price": 18000000,
+    "phone": "+91-9876543213",
+    "address": {
+      "street": "Green Street",
+      "area": "Singanallur",
+      "pincode": "641005",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 2800,
+    "floors": 2,
+    "dtcpApproved": true,
+    "squareFeet": 2400,
+    "bhk": 3,
+    "facing": "west",
+    "propertyAge": 5,
+    "parking": {
+      "available": true,
+      "type": "open",
+      "spaces": 2
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "tags": ["independent", "garden", "family-home"],
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 23,
+    "contacted": 8,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L005",
+    "title": "Agricultural Land for Sale",
+    "description": "Fertile agricultural land with water source and road access. Ideal for agriculture or investment.",
+    "type": "agriLand",
+    "location": {
+      "longitude": 77.045525,
+      "latitude": 11.019744
+    },
+    "readyToMove": true,
+    "gatedCommunity": false,
+    "locationFeatures": ["Water Source", "Road Access", "Power Connection"],
+    "amenities": ["Bore Well", "Fencing", "Farm House"],
+    "price": 21000000,
+    "phone": "+91-9876543214",
+    "address": {
+      "street": "Farm Road",
+      "area": "Thudiyalur",
+      "pincode": "641034",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 87120,
+    "floors": 0,
+    "dtcpApproved": false,
+    "facing": "south",
+    "parking": {
+      "available": true,
+      "type": "open",
+      "spaces": 4
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "tags": ["agricultural", "investment", "farm-land"],
+    "createdAt": "2024-01-05T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 67,
+    "contacted": 14,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L001",
+    "title": "Premium Plot in Prime Location",
+    "description": "Spacious plot in a developing area with excellent connectivity. Ideal for investment or construction.",
+    "type": "plot",
+    "location": {
+      "longitude": 76.90064,
+      "latitude": 11.013698
+    },
+    "readyToMove": true,
+    "gatedCommunity": true,
+    "locationFeatures": [
+      "Near International School",
+      "10 mins to Railway Station",
+      "Adjacent to Main Road"
+    ],
+    "amenities": ["24/7 Security", "Street Lights", "Underground Drainage"],
+    "price": 9000000,
+    "phone": "+91-9876543210",
+    "address": {
+      "street": "Gandhi Road",
+      "area": "RS Puram",
+      "pincode": "641002",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 2400,
+    "floors": 0,
+    "dtcpApproved": true,
+    "facing": "east",
+    "parking": {
+      "available": false
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "tags": ["corner-plot", "residential", "dtcp-approved"],
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 34,
+    "contacted": 12,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L002",
+    "title": "Modern 3BHK Apartment",
+    "description": "Luxurious apartment with modern amenities in the heart of the city center. Ideal for urban living.",
+    "type": "apartment",
+    "location": {
+      "longitude": 76.928379,
+      "latitude": 11.030729
+    },
+    "readyToMove": true,
+    "gatedCommunity": true,
+    "locationFeatures": [
+      "Near City Mall",
+      "5 mins to Hospital",
+      "Close to Metro Station"
+    ],
+    "amenities": ["Swimming Pool", "Gym", "Children's Play Area", "Club House"],
+    "price": 12000000,
+    "phone": "+91-9876543211",
+    "address": {
+      "street": "Race Course Road",
+      "area": "Race Course",
+      "pincode": "641018",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 1800,
+    "floors": 12,
+    "dtcpApproved": true,
+    "squareFeet": 1500,
+    "bhk": 3,
+    "facing": "north",
+    "propertyAge": 2,
+    "parking": {
+      "available": true,
+      "type": "covered",
+      "spaces": 2
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "video": "https://www.youtube.com/watch?v=bA10OW0hOEg",
+    "tags": ["luxury", "gated-community", "modern"],
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 45,
+    "contacted": 20,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L003",
+    "title": "Luxury Villa with Garden",
+    "description": "Spacious villa with modern architecture and beautiful landscaping, overlooking the golf course.",
+    "type": "villa",
+    "location": {
+      "longitude": 76.897907,
+      "latitude": 10.968794
+    },
+    "readyToMove": true,
+    "gatedCommunity": true,
+    "locationFeatures": [
+      "Golf Course View",
+      "Near International Airport",
+      "Peaceful Location"
+    ],
+    "amenities": [
+      "Private Garden",
+      "Swimming Pool",
+      "Home Theater",
+      "Servant Quarters"
+    ],
+    "price": 15000000,
+    "phone": "+91-9876543212",
+    "address": {
+      "street": "Villa Street",
+      "area": "Kovaipudur",
+      "pincode": "641042",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 4000,
+    "floors": 2,
+    "dtcpApproved": true,
+    "squareFeet": 3200,
+    "bhk": 4,
+    "facing": "east",
+    "propertyAge": 1,
+    "parking": {
+      "available": true,
+      "type": "covered",
+      "spaces": 3
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "video": "https://www.youtube.com/watch?v=bA10OW0hOEg",
+    "tags": ["premium", "golf-view", "luxury"],
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 56,
+    "contacted": 18,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L004",
+    "title": "Independent House with Garden",
+    "description": "Well-maintained independent house with spacious rooms. Ideal for families.",
+    "type": "house",
+    "location": {
+      "longitude": 77.079311,
+      "latitude": 10.91561
+    },
+    "readyToMove": true,
+    "gatedCommunity": false,
+    "locationFeatures": ["Near School", "Market Nearby", "Bus Stop"],
+    "amenities": ["Garden", "Solar Power", "Rain Water Harvesting"],
+    "price": 18000000,
+    "phone": "+91-9876543213",
+    "address": {
+      "street": "Green Street",
+      "area": "Singanallur",
+      "pincode": "641005",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 2800,
+    "floors": 2,
+    "dtcpApproved": true,
+    "squareFeet": 2400,
+    "bhk": 3,
+    "facing": "west",
+    "propertyAge": 5,
+    "parking": {
+      "available": true,
+      "type": "open",
+      "spaces": 2
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "tags": ["independent", "garden", "family-home"],
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 23,
+    "contacted": 8,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L005",
+    "title": "Agricultural Land for Sale",
+    "description": "Fertile agricultural land with water source and road access. Ideal for agriculture or investment.",
+    "type": "agriLand",
+    "location": {
+      "longitude": 77.045525,
+      "latitude": 11.019744
+    },
+    "readyToMove": true,
+    "gatedCommunity": false,
+    "locationFeatures": ["Water Source", "Road Access", "Power Connection"],
+    "amenities": ["Bore Well", "Fencing", "Farm House"],
+    "price": 21000000,
+    "phone": "+91-9876543214",
+    "address": {
+      "street": "Farm Road",
+      "area": "Thudiyalur",
+      "pincode": "641034",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 87120,
+    "floors": 0,
+    "dtcpApproved": false,
+    "facing": "south",
+    "parking": {
+      "available": true,
+      "type": "open",
+      "spaces": 4
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "tags": ["agricultural", "investment", "farm-land"],
+    "createdAt": "2024-01-05T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 67,
+    "contacted": 14,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L001",
+    "title": "Premium Plot in Prime Location",
+    "description": "Spacious plot in a developing area with excellent connectivity. Ideal for investment or construction.",
+    "type": "plot",
+    "location": {
+      "longitude": 76.90064,
+      "latitude": 11.013698
+    },
+    "readyToMove": true,
+    "gatedCommunity": true,
+    "locationFeatures": [
+      "Near International School",
+      "10 mins to Railway Station",
+      "Adjacent to Main Road"
+    ],
+    "amenities": ["24/7 Security", "Street Lights", "Underground Drainage"],
+    "price": 9000000,
+    "phone": "+91-9876543210",
+    "address": {
+      "street": "Gandhi Road",
+      "area": "RS Puram",
+      "pincode": "641002",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 2400,
+    "floors": 0,
+    "dtcpApproved": true,
+    "facing": "east",
+    "parking": {
+      "available": false
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "tags": ["corner-plot", "residential", "dtcp-approved"],
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 34,
+    "contacted": 12,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L002",
+    "title": "Modern 3BHK Apartment",
+    "description": "Luxurious apartment with modern amenities in the heart of the city center. Ideal for urban living.",
+    "type": "apartment",
+    "location": {
+      "longitude": 76.928379,
+      "latitude": 11.030729
+    },
+    "readyToMove": true,
+    "gatedCommunity": true,
+    "locationFeatures": [
+      "Near City Mall",
+      "5 mins to Hospital",
+      "Close to Metro Station"
+    ],
+    "amenities": ["Swimming Pool", "Gym", "Children's Play Area", "Club House"],
+    "price": 12000000,
+    "phone": "+91-9876543211",
+    "address": {
+      "street": "Race Course Road",
+      "area": "Race Course",
+      "pincode": "641018",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 1800,
+    "floors": 12,
+    "dtcpApproved": true,
+    "squareFeet": 1500,
+    "bhk": 3,
+    "facing": "north",
+    "propertyAge": 2,
+    "parking": {
+      "available": true,
+      "type": "covered",
+      "spaces": 2
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "video": "https://www.youtube.com/watch?v=bA10OW0hOEg",
+    "tags": ["luxury", "gated-community", "modern"],
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 45,
+    "contacted": 20,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L003",
+    "title": "Luxury Villa with Garden",
+    "description": "Spacious villa with modern architecture and beautiful landscaping, overlooking the golf course.",
+    "type": "villa",
+    "location": {
+      "longitude": 76.897907,
+      "latitude": 10.968794
+    },
+    "readyToMove": true,
+    "gatedCommunity": true,
+    "locationFeatures": [
+      "Golf Course View",
+      "Near International Airport",
+      "Peaceful Location"
+    ],
+    "amenities": [
+      "Private Garden",
+      "Swimming Pool",
+      "Home Theater",
+      "Servant Quarters"
+    ],
+    "price": 15000000,
+    "phone": "+91-9876543212",
+    "address": {
+      "street": "Villa Street",
+      "area": "Kovaipudur",
+      "pincode": "641042",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 4000,
+    "floors": 2,
+    "dtcpApproved": true,
+    "squareFeet": 3200,
+    "bhk": 4,
+    "facing": "east",
+    "propertyAge": 1,
+    "parking": {
+      "available": true,
+      "type": "covered",
+      "spaces": 3
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "video": "https://www.youtube.com/watch?v=bA10OW0hOEg",
+    "tags": ["premium", "golf-view", "luxury"],
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 56,
+    "contacted": 18,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L004",
+    "title": "Independent House with Garden",
+    "description": "Well-maintained independent house with spacious rooms. Ideal for families.",
+    "type": "house",
+    "location": {
+      "longitude": 77.079311,
+      "latitude": 10.91561
+    },
+    "readyToMove": true,
+    "gatedCommunity": false,
+    "locationFeatures": ["Near School", "Market Nearby", "Bus Stop"],
+    "amenities": ["Garden", "Solar Power", "Rain Water Harvesting"],
+    "price": 18000000,
+    "phone": "+91-9876543213",
+    "address": {
+      "street": "Green Street",
+      "area": "Singanallur",
+      "pincode": "641005",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 2800,
+    "floors": 2,
+    "dtcpApproved": true,
+    "squareFeet": 2400,
+    "bhk": 3,
+    "facing": "west",
+    "propertyAge": 5,
+    "parking": {
+      "available": true,
+      "type": "open",
+      "spaces": 2
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "tags": ["independent", "garden", "family-home"],
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 23,
+    "contacted": 8,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L005",
+    "title": "Agricultural Land for Sale",
+    "description": "Fertile agricultural land with water source and road access. Ideal for agriculture or investment.",
+    "type": "agriLand",
+    "location": {
+      "longitude": 77.045525,
+      "latitude": 11.019744
+    },
+    "readyToMove": true,
+    "gatedCommunity": false,
+    "locationFeatures": ["Water Source", "Road Access", "Power Connection"],
+    "amenities": ["Bore Well", "Fencing", "Farm House"],
+    "price": 21000000,
+    "phone": "+91-9876543214",
+    "address": {
+      "street": "Farm Road",
+      "area": "Thudiyalur",
+      "pincode": "641034",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 87120,
+    "floors": 0,
+    "dtcpApproved": false,
+    "facing": "south",
+    "parking": {
+      "available": true,
+      "type": "open",
+      "spaces": 4
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "tags": ["agricultural", "investment", "farm-land"],
+    "createdAt": "2024-01-05T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 67,
+    "contacted": 14,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L001",
+    "title": "Premium Plot in Prime Location",
+    "description": "Spacious plot in a developing area with excellent connectivity. Ideal for investment or construction.",
+    "type": "plot",
+    "location": {
+      "longitude": 76.90064,
+      "latitude": 11.013698
+    },
+    "readyToMove": true,
+    "gatedCommunity": true,
+    "locationFeatures": [
+      "Near International School",
+      "10 mins to Railway Station",
+      "Adjacent to Main Road"
+    ],
+    "amenities": ["24/7 Security", "Street Lights", "Underground Drainage"],
+    "price": 9000000,
+    "phone": "+91-9876543210",
+    "address": {
+      "street": "Gandhi Road",
+      "area": "RS Puram",
+      "pincode": "641002",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 2400,
+    "floors": 0,
+    "dtcpApproved": true,
+    "facing": "east",
+    "parking": {
+      "available": false
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "tags": ["corner-plot", "residential", "dtcp-approved"],
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 34,
+    "contacted": 12,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L002",
+    "title": "Modern 3BHK Apartment",
+    "description": "Luxurious apartment with modern amenities in the heart of the city center. Ideal for urban living.",
+    "type": "apartment",
+    "location": {
+      "longitude": 76.928379,
+      "latitude": 11.030729
+    },
+    "readyToMove": true,
+    "gatedCommunity": true,
+    "locationFeatures": [
+      "Near City Mall",
+      "5 mins to Hospital",
+      "Close to Metro Station"
+    ],
+    "amenities": ["Swimming Pool", "Gym", "Children's Play Area", "Club House"],
+    "price": 12000000,
+    "phone": "+91-9876543211",
+    "address": {
+      "street": "Race Course Road",
+      "area": "Race Course",
+      "pincode": "641018",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 1800,
+    "floors": 12,
+    "dtcpApproved": true,
+    "squareFeet": 1500,
+    "bhk": 3,
+    "facing": "north",
+    "propertyAge": 2,
+    "parking": {
+      "available": true,
+      "type": "covered",
+      "spaces": 2
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "video": "https://www.youtube.com/watch?v=bA10OW0hOEg",
+    "tags": ["luxury", "gated-community", "modern"],
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 45,
+    "contacted": 20,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L003",
+    "title": "Luxury Villa with Garden",
+    "description": "Spacious villa with modern architecture and beautiful landscaping, overlooking the golf course.",
+    "type": "villa",
+    "location": {
+      "longitude": 76.897907,
+      "latitude": 10.968794
+    },
+    "readyToMove": true,
+    "gatedCommunity": true,
+    "locationFeatures": [
+      "Golf Course View",
+      "Near International Airport",
+      "Peaceful Location"
+    ],
+    "amenities": [
+      "Private Garden",
+      "Swimming Pool",
+      "Home Theater",
+      "Servant Quarters"
+    ],
+    "price": 15000000,
+    "phone": "+91-9876543212",
+    "address": {
+      "street": "Villa Street",
+      "area": "Kovaipudur",
+      "pincode": "641042",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 4000,
+    "floors": 2,
+    "dtcpApproved": true,
+    "squareFeet": 3200,
+    "bhk": 4,
+    "facing": "east",
+    "propertyAge": 1,
+    "parking": {
+      "available": true,
+      "type": "covered",
+      "spaces": 3
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "video": "https://www.youtube.com/watch?v=bA10OW0hOEg",
+    "tags": ["premium", "golf-view", "luxury"],
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 56,
+    "contacted": 18,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L004",
+    "title": "Independent House with Garden",
+    "description": "Well-maintained independent house with spacious rooms. Ideal for families.",
+    "type": "house",
+    "location": {
+      "longitude": 77.079311,
+      "latitude": 10.91561
+    },
+    "readyToMove": true,
+    "gatedCommunity": false,
+    "locationFeatures": ["Near School", "Market Nearby", "Bus Stop"],
+    "amenities": ["Garden", "Solar Power", "Rain Water Harvesting"],
+    "price": 18000000,
+    "phone": "+91-9876543213",
+    "address": {
+      "street": "Green Street",
+      "area": "Singanallur",
+      "pincode": "641005",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 2800,
+    "floors": 2,
+    "dtcpApproved": true,
+    "squareFeet": 2400,
+    "bhk": 3,
+    "facing": "west",
+    "propertyAge": 5,
+    "parking": {
+      "available": true,
+      "type": "open",
+      "spaces": 2
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "tags": ["independent", "garden", "family-home"],
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 23,
+    "contacted": 8,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "L005",
+    "title": "Agricultural Land for Sale",
+    "description": "Fertile agricultural land with water source and road access. Ideal for agriculture or investment.",
+    "type": "agriLand",
+    "location": {
+      "longitude": 77.045525,
+      "latitude": 11.019744
+    },
+    "readyToMove": true,
+    "gatedCommunity": false,
+    "locationFeatures": ["Water Source", "Road Access", "Power Connection"],
+    "amenities": ["Bore Well", "Fencing", "Farm House"],
+    "price": 21000000,
+    "phone": "+91-9876543214",
+    "address": {
+      "street": "Farm Road",
+      "area": "Thudiyalur",
+      "pincode": "641034",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "landArea": 87120,
+    "floors": 0,
+    "dtcpApproved": false,
+    "facing": "south",
+    "parking": {
+      "available": true,
+      "type": "open",
+      "spaces": 4
+    },
+    "images": ["image1.webp", "image2.webp", "image3.webp", "image4.webp"],
+    "tags": ["agricultural", "investment", "farm-land"],
+    "createdAt": "2024-01-05T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "views": 67,
+    "contacted": 14,
+    "status": "Approved",
+    "enquiries": [
+      {
+        "userId": "U001",
+        "userName": "Alice",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-05T00:00:00.000Z"
+      },
+      {
+        "userId": "U002",
+        "userName": "Bob",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-06T00:00:00.000Z"
+      },
+      {
+        "userId": "U003",
+        "userName": "Charlie",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-07T00:00:00.000Z"
+      },
+      {
+        "userId": "U004",
+        "userName": "David",
+        "listingId": "L003",
+        "number": "+91-9876543212",
+        "createdAt": "2024-01-08T00:00:00.000Z"
+      }
+    ]
+  }
+]
